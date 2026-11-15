@@ -1,0 +1,26 @@
+{
+  "episodes": [
+    {
+      "id": "colors-tu-juliet-2026-11-15",
+      "channel": "Colors TV",
+      "show": "Tu Juliet Jatt Di",
+      "title": "15 November 2026 Episode",
+      "releaseDate": "2026-11-15",
+      "episodeNumber": null,
+      "thumbnail": null,
+      "pageUrl": null,
+      "streamUrl": null
+    },
+    {
+      "id": "colors-bigg-boss-2026-11-14",
+      "channel": "Colors TV",
+      "show": "Bigg Boss 20",
+      "title": "14 November 2026 Episode",
+      "releaseDate": "2026-11-14",
+      "episodeNumber": 70,
+      "thumbnail": null,
+      "pageUrl": null,
+      "streamUrl": null
+    }
+  ]
+}
